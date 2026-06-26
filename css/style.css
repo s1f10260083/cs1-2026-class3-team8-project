@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *, *::before, *::after {
   box-sizing: border-box;
   margin: 0;
@@ -259,4 +260,19 @@ body {
   .card-desc {
     font-size: 11px;
   }
+=======
+body {
+    background-color: #FFF8E7;
+    color: #333333;
+}
+
+h1 {
+    background-color: #8B2E2E;
+    color: white;
+    padding: 20px;
+}
+
+h2 {
+    
+>>>>>>> 88f8d9d422a3f8d6af985653adad9f0d7f3311c0
 }
